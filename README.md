@@ -1,1 +1,1 @@
-# Identifying_sexist_tweitter_dataset
+# Identifying_sexist_twitter_dataset
