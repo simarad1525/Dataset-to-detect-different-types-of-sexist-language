@@ -1,1 +1,5 @@
 # Identifying_sexist_twitter_dataset
+This dataset is collected as part of my graduate degree(PhD). These datapoints come from Twitter and got labaled using CrowdFlower in 2019. Each tweets were labaled by 6 labalers. <br /> In the csv file, beside the tweets and their labales, you would also see other information related to labalers. This dataset is **only** for research purpose.
+<br /> If you download, use or aggregate data for your research, you must cite the following papaers:
+- Boosting Text Classification Performance on Sexist Tweets by Text Augmentation and Text Generation Using a Combination of Knowledge Graphs(https://www.semanticscholar.org/paper/Boosting-Text-Classification-Performance-on-Sexist-Sharifirad-Jafarpour/defa284bfb1a207b4dbf1caf94d4475cf928fece)
+- When a Tweet is Actually Sexist. A more Comprehensive Classification of Different Online Harassment Categories and The Challenges in NLP(https://www.semanticscholar.org/paper/When-a-Tweet-is-Actually-Sexist.-A-more-of-Online-Sharifirad-Matwin/295505a820d8f5569c7228e1dfea3778666adcb1)
